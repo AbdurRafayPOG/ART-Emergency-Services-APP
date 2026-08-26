@@ -1,6 +1,6 @@
-# Emergency Service 🚨
+# ART Emergency Services 🚨
 
-Emergency Service is a Flutter-based Android mobile application developed to address the critical gap in centralized emergency response infrastructure for the citizens of Karachi, Pakistan. It unifies six essential emergency service categories, namely **Helplines, Hospitals, Police Stations, Fire Stations, Pharmacies, and Blood Banks**, into a single, centralized, and accessible platform.
+ART Emergency Services is a Flutter-based Android mobile application developed to address the critical gap in centralized emergency response infrastructure for the citizens of Karachi, Pakistan. It unifies six essential emergency service categories, namely **Helplines, Hospitals, Police Stations, Fire Stations, Pharmacies, and Blood Banks**, into a single, centralized, and accessible platform.
 
 ## 📖 About the Project
 
@@ -54,7 +54,7 @@ Emergency response in Pakistan, particularly Karachi, continues to rely on outda
 
 ## 🌍 Scope
 
-Emergency Service launches its first phase focused on **Karachi**, with a scalable system architecture designed to support future expansion across major cities in Pakistan.
+ART Emergency Services launches its first phase focused on **Karachi**, with a scalable system architecture designed to support future expansion across major cities in Pakistan.
 
 ## 🤝 Acknowledgements
 
